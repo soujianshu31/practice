@@ -1,2 +1,3 @@
-# practice
-git practice
+This is to practice Git and GitHub
+<br>
+Author:Soujanya
