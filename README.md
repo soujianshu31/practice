@@ -1,3 +1,3 @@
 This is to practice Git and GitHub
 <br>
-Author:Soujanya
+Author:Soujanya N
